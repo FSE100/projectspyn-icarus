@@ -1,1 +1,1 @@
-brick=ConnectBrick('T6');
+brick=ConnectBrick('EV3');                                                                         

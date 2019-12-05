@@ -1,2 +1,4 @@
-distance = brick.UltrasonicDist(3);  % Get distance to the nearest object.
-display(distance);                   % Print distance.
+distance = brick.UltrasonicDist(4);  % Get distance to the nearest object.
+display(distance);   
+% Print distance.
+

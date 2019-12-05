@@ -8,7 +8,5 @@ brick.MoveMotor('A', 50);
 pause(3);
 brick.MoveMotor('B', 50);
 pause(5);
-brick.StopMotor('A');
-brick.StopMotor('B');
-
+brick.StopAllMotors('Coast');
 
